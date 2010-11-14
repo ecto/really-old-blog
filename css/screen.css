@@ -39,6 +39,12 @@ a:hover {
     float: left;
 }
 
+#navigation li a {
+    color: #fff;
+    font-size: 1.2em;
+    padding: 10px;
+}
+
 #wrapper {
     background-color: #fff;
     width: 800px;
