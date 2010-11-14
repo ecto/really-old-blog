@@ -16,7 +16,7 @@ a:hover {
 }
 
 #header {
-    background-color: #000;
+    background: #000 rgba(0,0,0,0.5);
     color: #fff;
     width: 800px;
     padding: 20px;
