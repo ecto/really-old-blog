@@ -56,4 +56,6 @@ a:hover {
     background-color: #000;
     color: #fff;
     padding: 20px;
+    font-size: 0.8em;
+    text-align: right;
 }
