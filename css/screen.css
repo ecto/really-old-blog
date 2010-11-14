@@ -1,3 +1,8 @@
 body {
     background-color: orange;
 }
+
+#wrapper {
+    background-color: #fff;
+    width: 800px;
+}
