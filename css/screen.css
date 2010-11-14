@@ -19,7 +19,8 @@ a:hover {
     background-color: #000;
     color: #fff;
     width: 800px;
-    padding: 20px;
+    height: 50px;
+    line-ehight: 50px;
 }
 
 #logo a {
