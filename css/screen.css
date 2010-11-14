@@ -28,7 +28,7 @@ a:hover {
     background-color: #000;
     color: #fff;
     padding: 10px;
-    letter-spacing: 5px;
+    letter-spacing: 0;
     font-weight: bold;
 }
 
@@ -47,6 +47,10 @@ a:hover {
     color: #fff;
     font-size: 1.2em;
     padding: 10px;
+}
+
+#navigation li a:hover {
+    color: #229E00;
 }
 
 #wrapper {
