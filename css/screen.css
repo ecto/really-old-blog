@@ -15,6 +15,23 @@ a:hover {
     color: #115100;
 }
 
+#logo {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+
+#navigation {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    float: right;
+}
+
+#navigation li {
+    float: left;
+}
+
 #wrapper {
     background-color: #fff;
     width: 800px;
