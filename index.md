@@ -1,6 +1,6 @@
 ---
 layout: default
-title: about me
+title: home
 ---
 
 <img src="/images/cam.jpg" alt="That's me." />
