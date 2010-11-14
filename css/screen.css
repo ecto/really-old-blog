@@ -15,6 +15,12 @@ a:hover {
     color: #115100;
 }
 
+#header {
+    background-color: #000;
+    color: #fff;
+    width: 800px;
+}
+
 #logo {
     background-color: #000;
     color: #fff;
@@ -35,5 +41,12 @@ a:hover {
 #wrapper {
     background-color: #fff;
     width: 800px;
+    padding: 20px;
+}
+
+#footer {
+    width: 800px;
+    background-color: #000;
+    color: #fff;
     padding: 20px;
 }
