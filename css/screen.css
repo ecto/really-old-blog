@@ -22,7 +22,7 @@ a:hover {
     padding: 20px;
 }
 
-#logo {
+#logo a {
     background-color: #000;
     color: #fff;
     padding: 10px;
