@@ -1,5 +1,5 @@
 ---
-title: hello world
+title: Hello World
 layout: post
 ---
 
@@ -7,4 +7,8 @@ layout: post
 
 This is my first blog post.
 
-I predict the future.
+I've decided to set up this blog with GitHub Pages and Jekyll.
+This means all of my posts, stylesheets, and site structure are available
+via my GitHub Repo of the site.
+
+I have several interesting posts planned, so stick around.
