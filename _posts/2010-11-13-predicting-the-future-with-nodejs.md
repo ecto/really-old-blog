@@ -1,6 +1,6 @@
 ---
 title: Predicting the Future with NodeJS
-layout: default
+layout: post
 ---
 
 # Predicting the Future with NodeJS
