@@ -23,11 +23,14 @@ a:hover {
 }
 
 #logo a {
-    background-color: #000;
     color: #fff;
     padding: 10px;
     letter-spacing: 0;
     font-weight: bold;
+}
+
+#logo a {
+    background-color: #000;
 }
 
 #navigation {
@@ -47,7 +50,7 @@ a:hover {
 }
 
 #navigation li a:hover {
-    color: #229E00;
+    background: #000;
 }
 
 #wrapper {
