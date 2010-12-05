@@ -5,7 +5,7 @@ title: home
 
 ## Welcome to my website.
 
-I'm Cam. This is where I keep things I make.
+I'm Cam. This is where I keep things I make. I'm a web developer living in Northern Minnesota. You can read more about me [here](about.md).
 
 <img src="/images/cam.jpg" alt="That's me." />
 
