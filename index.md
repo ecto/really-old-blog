@@ -3,11 +3,11 @@ layout: default
 title: home
 ---
 
-<img src="/images/cam.jpg" alt="That's me." />
-
 ## Welcome to my website.
 
 I'm Cam. This is where I keep things I make.
+
+<img src="/images/cam.jpg" alt="That's me." />
 
 ## Want to talk to me?
 
