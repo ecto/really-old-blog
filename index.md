@@ -5,7 +5,10 @@ title: home
 
 <img src="/images/cam.jpg" alt="That's me." />
 
-## Welcome to my outpost.
+## Welcome to my website.
 
-This is where I keep things I make.
+I'm Cam. This is where I keep things I make.
 
+## Want to talk to me?
+
+If you [email me](mailto:diffference@gmail.com) it will pop up on my phone in a few minutes.
