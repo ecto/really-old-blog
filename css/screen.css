@@ -54,6 +54,11 @@ a:hover {
     background-color: #fff;
     width: 720px;
     padding: 20px;
+    margin: 0 auto;
+}
+
+p {
+    font-family: Georgia, Arial, serif;
 }
 
 #footer {
@@ -63,4 +68,5 @@ a:hover {
     padding: 20px;
     font-size: 0.8em;
     text-align: right;
+    margin: 0 auto;
 }
