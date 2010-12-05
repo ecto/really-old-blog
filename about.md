@@ -43,6 +43,8 @@ And I'm learning these things right now or in the near future:
 - Electrical engineering
 - Cooking [bananas foster](http://en.wikipedia.org/wiki/Bananas_Foster)
 
+~~~
+
 	// Coding test
 	syntaxHighlighting = true;
 
