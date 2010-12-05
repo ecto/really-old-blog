@@ -16,21 +16,35 @@ I solve problems. I create things. I dabble in the magical only to quantify it.
 I consider myself somewhat of a renaissance man, though I specialize in the digital.
 Since I was young I've always been fascinated by computers and my mind tends to wander toward them.
 
-I can do these things in my sleep:
+In lieu of a rambling paragraph, I will share with you a list of my proficiencies:
 
+- Hockey
 - Photoshop
 - HTML5
 - CSS3
 - PHP
 - JavaScript
 - English
-- 
+- Longboarding
+- Cooking pancakes
+- Rolling sushi
 
 I can do these things if I try:
 
+- Algorithmic efficiency
 - C++
 - Objective-C (iPhone apps)
 - Spanish
+- Cooking spaghetti
+
+And I'm learning these things right now or in the near future:
+
+- French
+- Electrical engineering
+- Cooking [bananas foster](http://en.wikipedia.org/wiki/Bananas_Foster)
+
+	// Coding test
+	syntaxHighlighting = true;
 
 ## What does Cam look like?
 
