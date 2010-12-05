@@ -43,28 +43,6 @@ And I'm learning these things right now or in the near future:
 - Electrical engineering
 - Cooking [bananas foster](http://en.wikipedia.org/wiki/Bananas_Foster)
 
-~~~
-
-// Markdown extra adds un-indented code blocks too
-
-if (this_is_more_code == true && !indented) {
-    // tild wrapped code blocks, also not indented
-}
-
-~~~
-
-Text with  
-two trailing spaces  
-(on the right)  
-can be used  
-for things like poems  
-
-### Horizontal rules
-
-* * * *
-****
---------------------------
-
 ## What does Cam look like?
 
 <img src="/images/cam2.jpg" alt="Go in peace." />
