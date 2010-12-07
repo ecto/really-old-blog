@@ -5,7 +5,7 @@ layout: default
 
 ## Who is Cam?
 
-<img src="/images/cam2.jpg" alt="Go in peace." />
+<img src="/images/cam.jpg" alt="Cam Pedersen" />
 
 Who is but the form following the function of what and what I am is a man on the Internet.
 
