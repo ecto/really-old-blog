@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-<img src="/images/cam.jpg" alt="That's me." />
+<img src="/images/cam2.jpg" alt="That's me." />
 
 ## Welcome to my website.
 
