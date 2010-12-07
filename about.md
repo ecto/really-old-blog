@@ -15,6 +15,8 @@ I solve problems. I create things.
 
 I develop creative applications for the Internet and mobile devices.
 
+I create digital and analog art for the love of it.
+
 ## What does Cam know?
 
 I consider myself somewhat of a renaissance man, though I specialize in the digital.
