@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
-    background: #eee url('/images/grass.jpg');
+    background: #eee url('/images/grass.jpg') fixed;
 }
 
 a {
