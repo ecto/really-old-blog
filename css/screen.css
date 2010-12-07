@@ -59,8 +59,8 @@ a:hover {
     width: 720px;
     padding: 20px;
     margin: 0 auto;
-    border: 2px solid #aaa;
-    border-top: 0;
+    /*border: 2px solid #aaa;
+    border-top: 0;*/
 }
 
 p {
