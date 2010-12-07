@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 18px;
-    background-color: #000;
+    background-color: #eee;
 }
 
 a {
@@ -59,6 +59,8 @@ a:hover {
     width: 720px;
     padding: 20px;
     margin: 0 auto;
+    border-left: 2px solid #444;
+    border-right: 2px solid #444;
 }
 
 p {
