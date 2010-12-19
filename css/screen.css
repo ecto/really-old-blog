@@ -28,12 +28,13 @@ a:hover {
 #logo a {
     color: #fff;
     padding: 10px;
-    letter-spacing: 0;
+    letter-spacing: -5px;
     font-weight: bold;
 }
 
 #logo a:hover {
     background-color: #000;
+    letter-spacing: 0;
 }
 
 #navigation {
